@@ -33,7 +33,7 @@
     "karma-jasmine": "^1.0.2",
     "karma-phantomjs-launcher": "^1.0.2",
     "karma-spec-reporter": "^0.0.26",
-    "sinon": "^1.11.1"
+    "sinon": "^1.17.7"
   },
   "dependencies": {
     "segue": "^2.1.0"
